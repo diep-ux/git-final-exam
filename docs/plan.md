@@ -10,4 +10,7 @@ Ngày kết thúc: 27/09/2025
 - Ngày 5: Thực hành GitHub workflow với nhóm.  
 - Ngày 6: Áp dụng Git trong một mini-project.  
 - Ngày 7: Tổng kết, viết báo cáo và ôn tập.
+- Ngày 11: Tổng kết nhóm.
+- Ngày 12: Viết báo cáo cuối cùng.
+
 
