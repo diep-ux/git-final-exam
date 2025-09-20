@@ -1,5 +1,5 @@
 - Git giúp quản lý code dễ dàng hơn
 - Hỗ trợ làm việc nhóm hiệu quả
 - Theo dõi lịch sử thay đổi
-Có thể quay lại lịch sử khi cần
-- Học Git giúp hiểu cách làm việc chuyên nghiệp
+- Giúp học cách làm việc chuyên nghiệp
+- Tăng khả năng cộng tác với team
