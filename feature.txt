@@ -1,0 +1,7 @@
+# New Feature A
+
+- Cho phép người dùng đăng nhập bằng tài khoản Google.  
+- Hỗ trợ xác thực hai lớp (2FA).  
+- Tăng cường bảo mật dữ liệu cá nhân.  
+- Giao diện thân thiện và dễ sử dụng.  
+- Tích hợp thông báo qua email.
