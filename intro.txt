@@ -1,0 +1,23 @@
+Giới thiệu cá nhân:
+Tôi là Nguyễn Võ Hoàng Diệp.
+Hiện đang là sinh viên tại Trường Đại Học Nam Cần Thơ.
+Tôi yêu thích công nghệ và lập trình.
+Tôi muốn nâng cao kỹ năng Git.
+Tôi mong muốn trở thành HOKAGE.
+
+Sở thích:
+1. Nghe nhạc
+2. Chơi thể thao
+3. Du lịch
+
+Kỹ năng:
+1. Git cơ bản
+2. Lập trình Python
+3. Làm việc nhóm
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git hàng tuần.
+- Thực hành commit, branch, merge và rebase.
+- Học thêm về GitHub workflow (PR/MR).
+- Tìm hiểu CI/CD cơ bản.
+- Áp dụng Git trong các dự án nhóm.
