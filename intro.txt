@@ -1,2 +1,4 @@
 Hello, this is Nguyễn Võ Hoàng Diệp
+Xin chào, tôi là Nguyễn Võ Hoàng Diệp
+Conflict resolved on 20/09/2025
 
